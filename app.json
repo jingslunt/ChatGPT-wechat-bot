@@ -1,0 +1,16 @@
+{
+    "name": "wechatbot deployment",
+    "description": "Deploy wechatbot to Heroku.",
+    "keywords": [
+        "wechatbot"
+    ],
+    "env": {
+        "AppName": {
+            "description": "App Name",
+            "value": "no"
+        }
+    },
+    "website": "",
+    "repository": "",
+    "stack": "container"
+}
