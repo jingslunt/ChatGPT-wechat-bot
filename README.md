@@ -23,6 +23,13 @@ docker run --name wechatbot wechatbot:latest
 
 ```
 
+# webchabot
+Click the button below to deploy to Heroku
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
 ## QA
 1. If your WeChat cannot log in
 
